@@ -383,6 +383,7 @@
 .footer__list-item {
   margin-top: 4px;
   margin-bottom: 0px;
+  display: flex;
 }
 
 .footer__column-link {
